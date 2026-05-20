@@ -4,13 +4,13 @@
 <img src="https://img.shields.io/github/followers/pavanKM?style=flat-square&color=cc0000&labelColor=000000&label=AGENTS&logo=github&logoColor=ffffff"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0000,65:3d0000,100:000000&height=320&section=header&text=PAVAN%20KM&fontSize=72&fontColor=cc0000&animation=twinkling&fontAlignY=42&desc=◈%20%20Penetration%20Tester%20%20◈%20%20VAPT%20Analyst%20%20◈%20%20Security%20Researcher%20%20◈&descAlignY=64&descSize=18&descColor=cc0000&stroke=cc0000&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0000,65:3d0000,100:000000&height=300&section=header&text=PAVAN%20KM&fontSize=72&fontColor=cc0000&animation=twinkling&fontAlignY=42&desc=%E2%97%88%20%20Penetration%20Tester%20%20%E2%97%88%20%20VAPT%20Analyst%20%20%E2%97%88%20%20Security%20Researcher%20%20%E2%97%88&descAlignY=64&descSize=18&descColor=cc0000&stroke=cc0000&strokeWidth=2"/>
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=2000&pause=1000&color=cc0000&center=true&vCenter=true&width=850&lines=%24+sudo+boot+--profile+pavan_km.sh;%5BSYS%5D+kernel+loaded+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+%E2%9C%93;%5BAUTH%5D+verifying+credentials...+PASSED;%5BAUTH%5D+root+access+granted+%3E%3E+welcome%2C+operator.;%5BGET%5D+++profile.name++++++%3D+%22PAVAN+KM%22;%5BGET%5D+++profile.role++++++%3D+%22Penetration+Tester+%2F+VAPT+Analyst%22;%5BGET%5D+++profile.location+%3D+%22Kochi%2C+Kerala%2C+India%22;%5BDECRYPT%5D+cert_0x01+%3D+Offenso+Certified+Security+Professional+(OCSP);%5BDECRYPT%5D+cert_0x02+%3D+Foundations+of+Cybersecurity+%7C+Google;%5BSCAN%5D+++targets_assessed+%3A+5%2B+%7C+vulns_found+%3A+8%2B;%5BSTAT%5D+++tools+%3A+Burp+Suite%2C+Nmap%2C+OWASP+ZAP%2C+WPScan;%5BPING%5D+++status+%3A+ACTIVE+%7C+mode+%3A+OFFENSIVE+%E2%9C%93;%5BSYS%5D+++all+modules+online.+standing+by.+_"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=cc0000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Executing+Web+Application+Penetration+Tests...;Identifying+Vulnerabilities+Across+Attack+Surfaces...;Analyzing+OWASP+Top+10+Exploit+Chains...;Delivering+CVSS-Rated+Security+Reports..." />
 
 </div>
 
@@ -18,35 +18,13 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/SYS-ONLINE-cc0000?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/STATUS-OPERATING-cc0000?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/NODE-KOCHI__KL_🇮🇳-cc0000?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/ROLE-RED_TEAM_OPS-cc0000?style=for-the-badge&logoColor=ffffff&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/MODE-OFFENSIVE-cc0000?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/NODE-KOCHI_KL_IN-cc0000?style=for-the-badge&logo=googlemaps&logoColor=ffffff&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/SHELL-BASH%2FZSH-cc0000?style=flat-square&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/TARGET-WEB%2FNETWORK%2FAD-cc0000?style=flat-square&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/STATUS-HUNTING-cc0000?style=flat-square&labelColor=000000)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## `> sudo cat /etc/profile.d/achievements.conf`
-
-<div align="center">
-
-![](https://img.shields.io/badge/0x01_/_CERTIFIED-OFFENSO_CERTIFIED_SECURITY_PROFESSIONAL_(OCSP)-cc0000?style=for-the-badge&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/0x02_/_CERTIFIED-FOUNDATIONS_OF_CYBERSECURITY_|_GOOGLE-cc0000?style=for-the-badge&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/0x03_/_INTERN-VAPT_ANALYST_@_SECURITY_SOLUTIONS-cc0000?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/CLEARANCE-AUTHORIZED_TESTER-cc0000?style=for-the-badge&logo=hackthebox&logoColor=ffffff&labelColor=000000)
 
 </div>
 
@@ -56,13 +34,141 @@
 
 <br/>
 
-## `> ifconfig --list social`
+## ▓▒░ EXECUTIVE SUMMARY ░▒▓
+
+<div align="center">
+
+*Computer Science graduate and Offenso Certified Security Professional (OCSP) with hands-on internship experience in Vulnerability Assessment and Penetration Testing (VAPT), web application security, network security testing, and Active Directory exploitation. Proficient in offensive security tools including Burp Suite, OWASP ZAP, Nmap, and WPScan. Focused on finding ways in — ethically.*
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ▓▒░ ARSENAL & CAPABILITIES ░▒▓
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="25%"><b>🔴 Offensive Ops</b></td>
+    <td align="center" width="25%"><b>🛠️ Tools</b></td>
+    <td align="center" width="25%"><b>💻 Platforms</b></td>
+    <td align="center" width="25%"><b>🔵 Blue / Monitoring</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      Web App Pentesting<br/>
+      Network Security Testing<br/>
+      Active Directory Attacks<br/>
+      Android Pentesting<br/>
+      Wireless Security<br/>
+      Reconnaissance & OSINT<br/>
+      Privilege Escalation
+    </td>
+    <td align="center">
+      Burp Suite<br/>
+      OWASP ZAP<br/>
+      Nmap<br/>
+      WPScan<br/>
+      Wireshark<br/>
+      SQLMap<br/>
+      VirusTotal
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kali,linux,windows,android,python,bash" /><br/><br/>
+      Kali Linux<br/>
+      Windows / Active Directory<br/>
+      Android<br/>
+      Python / Bash
+    </td>
+    <td align="center">
+      SIEM Operations<br/>
+      SOC Workflows<br/>
+      Log Analysis<br/>
+      Threat Identification<br/>
+      Incident Analysis<br/>
+      CVSS Scoring<br/>
+      Security Reporting
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ▓▒░ RECENT DEPLOYMENTS ░▒▓
+
+<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔴 Home Lab VAPT — Web Application</h3>
+      <p align="center"><b>Status:</b> 🟢 Completed &nbsp;|&nbsp; <b>Class:</b> Offensive Assessment</p>
+      <p align="center">Full-scope VAPT on an authorized home lab web application. Identified and classified 8+ vulnerabilities using OWASP Top 10 methodology with CVSS-based risk ratings and a professional remediation report.</p>
+      <p align="center"><b>Tools:</b> Nmap · OWASP ZAP · Burp Suite · WPScan · VirusTotal · SQLMap</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Automated VAPT Scanning Pipeline</h3>
+      <p align="center"><b>Status:</b> 🟢 Active &nbsp;|&nbsp; <b>Class:</b> Offensive Tooling</p>
+      <p align="center">Custom automated reconnaissance and scanning pipeline combining VirusTotal, OWASP ZAP, and Nmap into a unified workflow — reducing manual effort and improving attack surface coverage.</p>
+      <p align="center"><b>Tools:</b> Nmap · OWASP ZAP · VirusTotal · Bash Scripting</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🖥️ Active Directory Pentest Lab</h3>
+      <p align="center"><b>Status:</b> 🟢 Active &nbsp;|&nbsp; <b>Class:</b> Red Team Lab</p>
+      <p align="center">Configured and operated a full Active Directory penetration testing environment simulating privilege escalation, lateral movement, and credential harvesting attack chains in an isolated lab setup.</p>
+      <p align="center"><b>Tools:</b> Windows Server · Active Directory · Kali Linux</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Android Security Testing Lab</h3>
+      <p align="center"><b>Status:</b> 🟢 Active &nbsp;|&nbsp; <b>Class:</b> Mobile Security</p>
+      <p align="center">Hands-on Android penetration testing lab covering APK analysis, mobile traffic interception, and application-level vulnerability identification in an authorized and controlled environment.</p>
+      <p align="center"><b>Tools:</b> Android SDK · Burp Suite · APK Tools</p>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ▓▒░ CREDENTIALS ░▒▓
+
+<div align="center">
+
+![](https://img.shields.io/badge/0x01_OCSP-Offenso_Certified_Security_Professional-cc0000?style=for-the-badge&logo=hackthebox&logoColor=ffffff&labelColor=000000)
+&nbsp;
+![](https://img.shields.io/badge/0x02_GOOGLE-Foundations_of_Cybersecurity-cc0000?style=for-the-badge&logo=google&logoColor=ffffff&labelColor=000000)
+&nbsp;
+![](https://img.shields.io/badge/0x03_INTERN-VAPT_Analyst_@_Security_Solutions-cc0000?style=for-the-badge&logoColor=ffffff&labelColor=000000)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ▓▒░ CONNECT ░▒▓
 
 <div align="center">
 
 [![](https://img.shields.io/badge/>>_GMAIL-yourmail@gmail.com-cc0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:yourmail@gmail.com)
 &nbsp;
-[![](https://img.shields.io/badge/>>_LINKEDIN-pavanKM-cc0000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000)](https://linkedin.com/in/yourprofile)
+[![](https://img.shields.io/badge/>>_LINKEDIN-Pavan_KM-cc0000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000)](https://linkedin.com/in/yourprofile)
 &nbsp;
 [![](https://img.shields.io/badge/>>_GITHUB-pavanKM-cc0000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/yourusername)
 
@@ -74,85 +180,16 @@
 
 <br/>
 
-## `> ls -la /var/stack/ --recursive`
+## ▓▒░ TELEMETRY ░▒▓
 
 <div align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=pavanKM&show_icons=true&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=cc0000" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pavanKM&hide_border=true&background=0d1117&ring=cc0000&fire=cc0000&currStreakNum=cc0000&sideNums=cc0000&currStreakLabel=cc0000&sideLabels=cc0000&dates=cc0000" width="49%" />
 
-![](https://img.shields.io/badge/──────────────────────────────────────────────────────-MODULE__01_::_OFFENSIVE_SECURITY-cc0000?style=flat-square&labelColor=000000)
+<br/><br/>
 
-<br/>
-
-![](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/Vulnerability%20Assessment-000000?style=for-the-badge&logo=bugcrowd&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/Web%20App%20Security-000000?style=for-the-badge&logo=owasp&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/Active%20Directory-000000?style=for-the-badge&logo=microsoft&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/Android%20Pentesting-000000?style=for-the-badge&logo=android&logoColor=ffffff)
-
-<br/>
-
-![](https://img.shields.io/badge/──────────────────────────────────────────────────────-MODULE__02_::_SECURITY_TOOLS-cc0000?style=flat-square&labelColor=000000)
-
-<br/>
-
-![](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/WPScan-000000?style=for-the-badge&logo=wordpress&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlite&logoColor=ffffff)
-
-<br/>
-
-![](https://img.shields.io/badge/──────────────────────────────────────────────────────-MODULE__03_::_PLATFORMS_&_SYSTEMS-cc0000?style=flat-square&labelColor=000000)
-
-<br/>
-
-![](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=ffffff)
-
-<br/>
-
-![](https://img.shields.io/badge/──────────────────────────────────────────────────────-MODULE__04_::_SCRIPTING_&_LANGUAGES-cc0000?style=flat-square&labelColor=000000)
-
-<br/>
-
-![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=ffffff)
-
-<br/>
-
-![](https://img.shields.io/badge/──────────────────────────────────────────────────────-MODULE__05_::_FRAMEWORKS_&_METHODOLOGY-cc0000?style=flat-square&labelColor=000000)
-
-<br/>
-
-![](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/CVSS%20Scoring-000000?style=for-the-badge&logo=hackthebox&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/SIEM-000000?style=for-the-badge&logo=splunk&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/SOC%20Operations-000000?style=for-the-badge&logo=paloaltonetworks&logoColor=ffffff)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanKM&bg_color=0d1117&color=cc0000&line=cc0000&point=ffffff&area=true&area_color=cc000020&hide_border=true" width="98%" />
 
 </div>
 
@@ -162,69 +199,9 @@
 
 <br/>
 
-## `> ./fetch_stats.sh --user pavanKM`
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pavanKM&show_icons=true&count_private=true&include_all_commits=true&border_radius=6&border_color=cc0000&icon_color=cc0000&title_color=cc0000&text_color=cc0000&bg_color=000000"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanKM&layout=compact&border_radius=6&border_color=cc0000&title_color=cc0000&text_color=cc0000&bg_color=000000"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanKM&background=000000&border=cc0000&stroke=1a0000&ring=cc0000&fire=cc0000&currStreakNum=cc0000&sideNums=cc0000&currStreakLabel=cc0000&sideLabels=cc0000&dates=cc0000&border_radius=6"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## `> tail -f /var/log/git/contributions.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanKM&bg_color=000000&color=cc0000&line=cc0000&point=cc0000&area=true&area_color=cc000012&hide_border=false&border_color=cc0000&title_color=cc0000&radius=6"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## `> ./snake --daemon --watch /contributions`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavanKM/pavanKM/output/github-contribution-grid-snake-dark.svg?v=1"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavanKM/pavanKM/output/github-contribution-grid-snake.svg?v=1"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/pavanKM/pavanKM/output/github-contribution-grid-snake.svg?v=1"/>
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## `> cat /etc/motd`
-
-<div align="center">
-
-<br/>
-
-*`// end of transmission — every vuln found is a system made safer`*
+*`// I don't break things. I find ways in — ethically.`*
 
 <br/>
 
@@ -232,24 +209,20 @@
 &nbsp;
 ![](https://img.shields.io/badge/CLEARANCE-AUTHORIZED_TESTER-cc0000?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/LAST__SCAN-"recon"-cc0000?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/LAST__SCAN-recon-cc0000?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/LOGS-/dev/null-cc0000?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/LOGS-%2Fdev%2Fnull-cc0000?style=flat-square&labelColor=000000)
 
 </div>
-
-<br/>
-
----
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=1800&pause=500&color=cc0000&center=true&vCenter=true&width=850&lines=%5BSYS%5D+++session+timeout+detected...;%5BKILL%5D++terminating+active+processes...;%5BFLUSH%5D+purging+memory+buffers...;%5BRM+-RF%5D+deleting+cached+data...;%5BREVOKE%5D+invalidating+access+tokens...;%5BCLOSE%5D+shutting+down+open+ports...;%5BWIPE%5D++clearing+tmp+%2F+swap+files...;%5BUNMNT%5D+disconnecting+from+node...;%5BNET%5D+++dropping+all+connections...;%5BERR%5D+++connection+lost.+signal+gone.;%5B404%5D+++target+not+found.+going+dark.;%5BEOF%5D+++%E2%97%88+SESSION+TERMINATED+%E2%97%88"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1800&pause=500&color=cc0000&center=true&vCenter=true&width=850&lines=[SYS]+session+timeout+detected...;[KILL]+terminating+active+processes...;[FLUSH]+purging+memory+buffers...;[REVOKE]+invalidating+access+tokens...;[CLOSE]+shutting+down+open+ports...;[NET]+dropping+all+connections...;[ERR]+connection+lost.+signal+gone.;[404]+target+not+found.+going+dark.;[EOF]+SESSION+TERMINATED" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0000,65:3d0000,100:000000&height=220&section=footer&text=◈%20SIGNAL%20LOST%20◈&fontSize=38&fontColor=cc0000&animation=twinkling&fontAlignY=50&desc=CONNECTION%20TERMINATED%20%2F%2F%20ACCESS%20DENIED%20%2F%2F%20NODE%20OFFLINE&descSize=15&descAlignY=72&descColor=880000"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0000,65:3d0000,100:000000&height=220&section=footer&text=%E2%97%88%20SIGNAL%20LOST%20%E2%97%88&fontSize=38&fontColor=cc0000&animation=twinkling&fontAlignY=50&desc=CONNECTION%20TERMINATED%20%2F%2F%20ACCESS%20DENIED%20%2F%2F%20NODE%20OFFLINE&descSize=15&descAlignY=72&descColor=880000"/>

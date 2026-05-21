@@ -166,11 +166,9 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/>>_GMAIL-yourmail@gmail.com-cc0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:yourmail@gmail.com)
+[![](https://img.shields.io/badge/>>_LINKEDIN-Pavan_KM-cc0000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000)](https://linkedin.com/in/-pavankm)
 &nbsp;
-[![](https://img.shields.io/badge/>>_LINKEDIN-Pavan_KM-cc0000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000)](https://linkedin.com/in/yourprofile)
-&nbsp;
-[![](https://img.shields.io/badge/>>_GITHUB-pavanKM-cc0000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/yourusername)
+[![](https://img.shields.io/badge/>>_GITHUB-pavanKM-cc0000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/pavannkm)
 
 </div>
 

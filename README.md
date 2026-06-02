@@ -17,8 +17,7 @@
       <ul>
         <li><b>Background:</b> Computer Science graduate with a strong academic base in software systems and networking protocols.</li>
         <li><b>Focus:</b> Actively engaging in Vulnerability Assessment and Penetration Testing (VAPT) across web applications, networks, and Active Directory environments.</li>
-        <li><b>Exploration:</b> Developing custom scripting tools to automate scanning pipelines and offensive operations.</li>
-        <li><b>Goals:</b> Active CTF player seeking opportunities as a Junior Security Analyst, VAPT Intern, or SOC Operator.</li>
+        <li><b>Goals:</b> Active CTF player seeking opportunities as a Cybersecurity Analyst, VAPT Intern, or SOC Operator.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -42,7 +41,6 @@
 | **🌐 Web App Pentesting** | Exploiting logic and mapping input parameters. | OWASP Top 10 |
 | **🏰 Active Directory Attacks** | Simulating internal network compromise vectors. | Windows Domains |
 | **⬆️ Privilege Escalation** | Escalating rights to gain administrative control. | Linux & Windows |
-| **🤖 Recon Automation** | Bundling scan modules into lightweight tools. | Automated Pipelines |
 | **🚩 CTF Challenges** | Solving security puzzles to refine exploit logic. | TryHackMe & HTB |
 
  
@@ -82,7 +80,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1C2333" alt="HTML5" />
 </p>
 
-<p align="center"><b>DevOps & Other</b></p>
+<p align="center"><b>Other</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1C2333" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1C2333" alt="Git" />
@@ -172,11 +170,7 @@ My security testing methodology follows a structured approach starting with deep
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavannkm&theme=algolia&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="195" alt="GitHub Stats" />
-  &nbsp;
   <img src="https://streak-stats.demolab.com?user=pavannkm&theme=algolia&hide_border=true" height="195" alt="GitHub Streak" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavannkm&theme=algolia&layout=compact&hide_border=true" height="195" alt="Top Languages" />
 </div>
 
  
@@ -193,7 +187,7 @@ My security testing methodology follows a structured approach starting with deep
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C2333" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:subhash@mail.com" target="_blank">
+  <a href="mailto:pavankm146@mail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C2333" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
@@ -206,5 +200,5 @@ My security testing methodology follows a structured approach starting with deep
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b9-43be8429b27c.gif" width="100%">
-  <sub>⚡ Crafted with precision · Open to VAPT Internship & SOC Analyst roles</sub>
+  <sub>⚡ Crafted with precision · Open to VAPT and internships</sub>
 </div>

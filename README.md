@@ -1,204 +1,82 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=141E30,243B55&height=120&section=header&text=Pavan+KM&fontSize=36&fontColor=E8EDF2&fontAlignY=38&desc=Cybersecurity+Researcher+·+VAPT+Specialist&descAlignY=58&descSize=16" width="100%"/>
-</div>
+# Hey, I'm Pavan KM 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2E86C1&size=20&pause=1000&center=true&width=500&lines=Penetration+Tester;VAPT+Specialist;Red+Team+Operator;CTF+Player;Bug+Hunter" />
-</div>
+I'm a cybersecurity graduate who spent 6 months doing real VAPT work at **Hackware Security Solutions LLP** — testing web applications, finding vulnerabilities, and supporting a professional security team. I break things to understand how they work, and I document everything so others can learn too.
 
-<br>
+I'm actively looking for **remote roles, internships, and entry-level positions** in offensive security, red teaming, or SOC/blue team operations.
 
-## 🧑‍💻 About Me
-<br>
+---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li><b>Background:</b> Computer Science graduate with a strong academic base in software systems and networking protocols.</li>
-        <li><b>Focus:</b> Actively engaging in Vulnerability Assessment and Penetration Testing (VAPT) across web applications, networks, and Active Directory environments.</li>
-        <li><b>Goals:</b> Active CTF player seeking opportunities as a Cybersecurity Analyst, VAPT Intern, or SOC Operator.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
-<br>
+## 💼 Experience
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b9-43be8429b27c.gif" width="100%">
-</div>
-<br>
+**Cybersecurity Intern — Hackware Security Solutions LLP**
+`October 2025 – April 2026`
 
-## 🔍 What I Do
-<br>
+- Conducted vulnerability assessments on web applications and internal infrastructure
+- Performed penetration testing tasks and reported findings with remediation guidance
+- Supported the team using hands-on technical knowledge in live client environments
+- Collaborated on security reviews, contributing across the full VAPT lifecycle
 
-| Skill Area | Operational Objectives | Target Surface |
-| :---: | :--- | :--- |
-| **🕵️ Vulnerability Assessment** | Spotting misconfigurations and patch gaps. | Infrastructure |
-| **🌐 Web App Pentesting** | Exploiting logic and mapping input parameters. | OWASP Top 10 |
-| **🏰 Active Directory Attacks** | Simulating internal network compromise vectors. | Windows Domains |
-| **⬆️ Privilege Escalation** | Escalating rights to gain administrative control. | Linux & Windows |
-| **🚩 CTF Challenges** | Solving security puzzles to refine exploit logic. | TryHackMe & HTB |
+**Event Coordinator — LOOP (Last One On Peak)**
 
- 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b9-43be8429b27c.gif" width="100%">
-</div>
-<br>
+- Designed and coordinated a competitive Attack & Persistence hacking event (CTF-style)
+- Built challenge scenarios covering exploitation, persistence, and lateral movement concepts
+- Managed participant coordination and technical infrastructure for the event
 
-## 🛠️ Tools & Arsenal
-<br>
+---
 
-<p align="center"><b>Pentesting Tools</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white&labelColor=1C2333" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=1C2333" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Nmap-004680?style=for-the-badge&logo=nmap&logoColor=white&labelColor=1C2333" alt="Nmap" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white&labelColor=1C2333" alt="OWASP ZAP" />
-  <img src="https://img.shields.io/badge/Gobuster-1C2333?style=for-the-badge&labelColor=1C2333" alt="Gobuster" />
-  <img src="https://img.shields.io/badge/Evil--WinRM-1C2333?style=for-the-badge&labelColor=1C2333" alt="Evil-WinRM" />
-  <img src="https://img.shields.io/badge/Nikto-1C2333?style=for-the-badge&labelColor=1C2333" alt="Nikto" />
-  <img src="https://img.shields.io/badge/Netcat-1C2333?style=for-the-badge&labelColor=1C2333" alt="Netcat" />
-</p>
+## 🔧 What I Work With
 
-<p align="center"><b>Operating Systems</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1C2333" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=1C2333" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=1C2333" alt="Windows" />
-</p>
+**Offensive / VAPT**
+Burp Suite · Metasploit · Nmap · Gobuster · Nikto · Evil-WinRM · Netcat · OWASP ZAP
 
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1C2333" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1C2333" alt="Bash" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1C2333" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1C2333" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1C2333" alt="HTML5" />
-</p>
+**Environments**
+Kali Linux · Ubuntu · Windows · Active Directory Lab Environments
 
-<p align="center"><b>Other</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1C2333" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1C2333" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1C2333" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=1C2333" alt="VirtualBox" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1C2333" alt="VS Code" />
-</p>
+**Languages**
+Python · Bash · SQL · JavaScript · HTML
 
- 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b9-43be8429b27c.gif" width="100%">
-</div>
-<br>
+**Other**
+Docker · Git · GitHub · VirtualBox · VS Code
 
-## 📁 Featured Projects
-<br>
+---
 
-| 🗂️ Project | 📄 Description | 🏷️ Category | 🔧 Tech Used | 📌 Status |
-| :--- | :--- | :--- | :--- | :---: |
-| **[Active Directory Notes](#)** | Systematic logs covering credential harvesting, pivoting, and mitigation protocols. | Pentest Lab Logs | AD Labs, Markdown | ✅ Complete |
-| **[CTF Writeups](#)** | Write-ups of solved capture-the-flag machine sequences and flags. | Offensive Writeups | Markdown, Git | 🔄 Active |
+## 📁 Projects
 
+### 🗂️ Active Directory Attack Notes
+Structured personal notes covering AD enumeration, credential harvesting, lateral movement, and persistence techniques — built from hands-on lab practice.
+> `AD Labs` `BloodHound` `CrackMapExec` `Impacket` `Markdown`
 
- 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b9-43be8429b27c.gif" width="100%">
-</div>
-<br>
+### 🚩 CTF Writeups
+Step-by-step writeups of machines I've solved on TryHackMe and HackTheBox. Each one covers my full methodology: recon, exploitation path, privilege escalation, and lessons learned.
+> `TryHackMe` `HackTheBox` `Markdown` `Offensive Security`
 
-## 🔁 Pentest Methodology
-<br>
+---
 
-| Phase 1 | Phase 2 | Phase 3 | Phase 4 | Phase 5 |
-| :---: | :---: | :---: | :---: | :---: |
-| `🔍 Recon` | `🔎 Scanning` | `💥 Exploitation` | `🔓 Post-Exploitation` | `📝 Reporting` |
-
-My security testing methodology follows a structured approach starting with deep reconnaissance to map the target attack surface, followed by active scanning and vulnerability analysis. Exploitation and post-exploitation steps focus on validating the actual business impact, concluding with a comprehensive and remediation-focused report.
-
- 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b9-43be8429b27c.gif" width="100%">
-</div>
-<br>
-
-## 🏅 Certifications & Roadmap
-<br>
+## 🏅 Certifications
 
 | Certification | Issuer | Status |
-| :--- | :--- | :---: |
-| **Google Cybersecurity Certificate** | Google | ✅ Complete |
-| **Offenso Certified Security Professional** | Offenso Hackers Academy | ✅ Complete |
+|---|---|---|
+| Google Cybersecurity Certificate | Google | ✅ Complete |
+| Offenso Certified Security Professional | Offenso Hackers Academy | ✅ Complete |
 
- 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b9-43be8429b27c.gif" width="100%">
-</div>
-<br>
+---
 
-## 🚩 CTF & Practice Platforms
-<br>
+## 🚩 Platforms
 
-<div align="center">
-  <a href="https://tryhackme.com/p/cs22.1693" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-%23DE1F26?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1C2333" alt="TryHackMe" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://app.hackthebox.com/profile/pavannkm" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=141D2B" alt="HackTheBox" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://picoctf.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PicoCTF-%231565C0?style=for-the-badge&labelColor=1C2333" alt="PicoCTF" />
-  </a>
-  <br><br>
-  <a href="https://tryhackme.com/p/cs22.1693" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/cs22.1693.png" alt="TryHackMe Stats Card" />
-  </a>
-</div>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23DE1F26?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cs22.1693)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=141D2B)](https://app.hackthebox.com/profile/pavannkm)
+[![PicoCTF](https://img.shields.io/badge/PicoCTF-%231565C0?style=for-the-badge)](https://picoctf.org/)
 
- 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b9-43be8429b27c.gif" width="100%">
-</div>
-<br>
+---
 
-## 📊 GitHub Analytics
-<br>
+## 📬 Let's Connect
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pavannkm&theme=algolia&hide_border=true" height="195" alt="GitHub Streak" />
-</div>
+I'm open to remote work, internships, and entry-level roles in offensive security or SOC operations.
 
- 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b9-43be8429b27c.gif" width="100%">
-</div>
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-pavankm)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankm146@mail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavannkm)
 
-## 🤝 Connect With Me
-<br>
+---
 
-<div align="center">
-  <a href="https://linkedin.com/in/-pavankm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C2333" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pavankm146@mail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C2333" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/pavannkm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1C2333" alt="GitHub" />
-  </a>
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b9-43be8429b27c.gif" width="100%">
-  <sub>⚡ Crafted with precision · Open to VAPT and internships</sub>
-</div>
+*Currently: building CTF writeups · practicing AD attack chains · open to work*

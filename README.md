@@ -8,7 +8,7 @@
 
 ---
 
-I'm a Computer Science graduate and former intern at **Hackware Security Solutions LLP**, where I spent 6 months doing real VAPT work — testing web apps, finding vulnerabilities, and supporting a professional security team on live client engagements.
+I'm a Computer Science graduate and former intern at **Hackware Security Solutions LLP**, where I spent 6 months of testing web apps, finding vulnerabilities, and supporting a professional security team on live client engagements.
 
 I break things to understand how they work. I document everything so others can learn too.
 

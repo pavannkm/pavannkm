@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86C1&center=true&width=600&lines=Hey%2C+I'm+Pavan+KM+%F0%9F%91%8B;Cybersecurity+Intern+%40+Hackware;VAPT+%7C+Red+Team+%7C+CTF+Player;Open+to+Remote+Roles+%26+Internships)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86C1&center=true&width=600&lines=Hey%2C+I'm+Pavan+KM+%F0%9F%91%8B;Cybersecurity+Intern+%40+Beagle+Security;VAPT+%7C+Red+Team+%7C+CTF+Player;Open+to+Remote+Roles+%26+Internships)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pavannkm&color=2E86C1&style=flat-square&label=Profile+Views)
 

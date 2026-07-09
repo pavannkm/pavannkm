@@ -8,22 +8,29 @@
 
 ---
 
-I'm a Computer Science graduate and former intern at **Hackware Security Solutions LLP**, where I spent 6 months of testing web apps, finding vulnerabilities, and supporting a professional security team on live client engagements.
+I'm a Computer Science graduate and former intern at **Beagle Security**, where I currently been part of testing web apps, finding vulnerabilities, building tools, and supporting a professional security team on live client engagements.
 
 I break things to understand how they work. I document everything so others can learn too.
 
-Currently open to **remote roles, internships, and entry-level positions** in offensive security, red teaming, or SOC/blue team operations.
 
 ---
 
 ## 💼 Experience
+
+**Cybersecurity Intern — Beagle Security**
+`June 2026 – Present`
+
+- Performing vulnerability assessments on web applications and internal infrastructure
+- Performing penetration testing tasks and delivered findings with actionable remediation guidance
+- Reporting the found vulnerabilities into document which helps the team
+- Developing tools using python to know and understand their working principle
 
 **Cybersecurity Intern — Hackware Security Solutions LLP**
 `October 2025 – April 2026`
 
 - Conducted vulnerability assessments on web applications and internal infrastructure
 - Performed penetration testing tasks and delivered findings with actionable remediation guidance
-- Supported security reviews across the full VAPT lifecycle in live client environments
+- Testing of CTF challenges and validating to the crafters
 - Applied hands-on technical knowledge to assist senior analysts on real engagements
 
 **Event Coordinator — LOOP (Last One On Peak)**

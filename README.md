@@ -8,7 +8,7 @@
 
 ---
 
-I'm a Computer Science graduate and former intern at **Beagle Security**, where I currently been part of testing web apps, finding vulnerabilities, building tools, and supporting a professional security team on live client engagements.
+I'm a Computer Science graduate and intern at **Beagle Security**, where I currently been part of testing web apps, finding vulnerabilities, building tools, and supporting a professional security team on live client engagements.
 
 I break things to understand how they work. I document everything so others can learn too.
 
